@@ -8,7 +8,7 @@
 <p float="left">
     </div>
         <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
-        <span href="/anoband">あのバンド</span>
+        <span><a href="/anoband">あのバンド</a></span>
     </div>
     <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
     <a href="/speculation">Speculation</a>
