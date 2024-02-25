@@ -1,0 +1,38 @@
+    {
+      "id": "paradial",
+      "title_localized": {
+        "en": "Paradial Resonator"
+      },
+      "artist": "Reku Mochizuki",
+      "bpm": "156",
+      "bpm_base": 156,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 75185,
+      "audioPreviewEnd": 105185,
+      "side": 1,
+      "bg": "single2_conflict",
+      "version": "",
+      "date": 10086,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Thunderbult 2000",
+          "jacketDesigner": "",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Thunderbult 1573",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
