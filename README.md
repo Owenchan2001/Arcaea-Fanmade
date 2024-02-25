@@ -5,7 +5,6 @@
 # 仓库谱面信息(及其定数)
 <pre>
   <code>
-    <div class="notaninfobox dstable">
       <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
       <div class="number">
         <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
@@ -39,6 +38,5 @@
           
           </div>
         </div>
-    </div>
   </code>
 </pre>
