@@ -1,0 +1,38 @@
+    {
+      "id": "speculation",
+      "title_localized": {
+        "en": "Speculation"
+      },
+      "artist": "BEMANI Sound Team ZAQUVA",
+      "bpm": "190",
+      "bpm_base": 190,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 21207,
+      "audioPreviewEnd": 51207,
+      "side": 1,
+      "bg": "yugamu",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Daxance vs. Datro vs. Dawasion vs. Daster",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
