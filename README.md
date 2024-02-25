@@ -21,4 +21,6 @@
     <a href="/zetabyte">ZETABYTE</a>
     <img src="/fremeny/base.jpg" title="fremeny" width="135" high="135"/>
     <a href="/fremeny">Bestest Fremeny!!</a>
+    <img src="/paradial/base.jpg" title="paradial" width="135" high="135"/>
+    <a href="/paradial">Paradial Resonator</a>
 </p>
