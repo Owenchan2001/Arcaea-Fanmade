@@ -7,7 +7,7 @@
   <code>
     <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
     <div class="number">
-      <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
+      <div style="display: grid;grid-template-columns: repeat(auto-fill, 10px);grid-template-rows: repeat(auto-fill, 15px);place-items: center center;">
         <div style="margin-right:7.5px;">
             <div style="height:110px;width:100px;line-height:110px;text-align:center;">
                 <a href="/anoband" title="anoband">
