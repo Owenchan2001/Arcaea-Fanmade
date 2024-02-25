@@ -12,8 +12,8 @@
     <a href="/speculation">Speculation</a>
     <img src="/demetel/base.jpg" title="demetel" width="135" high="135"/>
     <a href="/speculation">Demetel(Erixa MYTH Remix)</a>
-    <img src="/zetabtye/base.jpg" title="zetabtye" width="135" high="135"/>
-    <a href="/zetabtye">ZETABYTE</a>
+    <img src="/zetabyte/base.jpg" title="zetabyte" width="135" high="135"/>
+    <a href="/zetabyte">ZETABYTE</a>
     <img src="/fremeny/base.jpg" title="fremeny" width="135" high="135"/>
     <a href="/fremeny">Bestest Fremeny!!</a>
 </p>
