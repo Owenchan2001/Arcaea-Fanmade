@@ -6,8 +6,10 @@
 
 ##2024年2月份更新谱面
 <p float="left">
-    <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
-    <a href="/anoband">あのバンド</a>
+    </div>
+        <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
+        <span href="/anoband">あのバンド</span>
+    </div>
     <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
     <a href="/speculation">Speculation</a>
 </p>
