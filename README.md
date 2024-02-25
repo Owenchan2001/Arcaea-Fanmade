@@ -5,8 +5,9 @@
 # 仓库谱面信息(及其定数)
 <pre>
   <code>
-    <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
-    <div class="number">
+    <div class="notaninfobox dstable">
+      <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
+      <div class="number">
         <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
           <div style="margin-right:7.5px;">
               <div style="height:110px;width:100px;line-height:110px;text-align:center;">
@@ -21,7 +22,7 @@
                   <br/>Future 10.0
                 </div>
             </div>
-    
+
             <div style="margin-right:7.5px;">
               <div style="height:110px;width:100px;line-height:110px;text-align:center;">
                   <a href="/speculation" title="speculation">
@@ -35,7 +36,8 @@
                   <br/>Future 10.9
                 </div>
             </div>
+          
+          </div>
         </div>
-    </div>
   </code>
 </pre>
