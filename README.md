@@ -1,4 +1,7 @@
 # Arcaea-Fanmade
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=Owenchan2001-Arcaea-Fanmade)
+
 用于存放Arcaea自制谱的谱面文件仓库。
 
 所有谱面均可自由获取，若录制手元烦请在简介或评论中@谱师，若私服预收录请私信谱师告知。
