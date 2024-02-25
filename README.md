@@ -9,7 +9,7 @@
       <div class="number">
         <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
           <div style="margin-right:7.5px;">
-              <div style="height:110px;width:100px;line-height:110px;text-align:center;">
+              <div style="height:110px;width:100px;text-align:center;">
                   <a href="/anoband" title="anoband">
                       <img alt="base.jpg" src="/anoband/base.jpg" decoding="async" width="100" height="100"/>
                   </a>
@@ -23,7 +23,7 @@
             </div>
 
             <div style="margin-right:7.5px;">
-              <div style="height:110px;width:100px;line-height:110px;text-align:center;">
+              <div style="height:110px;width:100px;text-align:center;">
                   <a href="/speculation" title="speculation">
                       <img alt="base.jpg" src="/speculation/base.jpg" decoding="async" width="100" height="100"/>
                   </a>
