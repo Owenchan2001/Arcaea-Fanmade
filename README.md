@@ -7,5 +7,5 @@
 ##2024年2月份更新谱面
 <figure>
     <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/> 
-    <center> [あのバンド](/anoband)</center>
+    <a href="/anoband"> あのバンド</a>
 </figure>
