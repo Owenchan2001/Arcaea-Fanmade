@@ -5,24 +5,24 @@
 # 仓库谱面信息(及其定数)
 <pre>
   <code>
-        <div class="notaninfobox dstable">
-            <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
-            <div class="number">
-                <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
-                    <div style="margin-right:7.5px;">
-                        <div style="height:110px;width:100px;line-height:110px;text-align:center;">
-                            <a href="/Anoband" title="Anoband">
-                                <img alt="base.jpg" src="/anoband/base.jpg" decoding="async" width="100" height="100"/>
-                            </a>
-                        </div>
-                        <div style="height:44px;text-align:center;text-overflow:ellipsis;overflow:hidden;width:100px;display: block;white-space: nowrap;line-height:22px;text-align:center;">
-                            <a href="/Testify" title="Anoband">
-                                <span title="Testify">あのバンド</span>
-                            </a>
-                            <br/>Future 10.0
-                        </div>
-                    </div>
+    <div class="notaninfobox dstable">
+      <div class="ds">2024年2月更新谱面（含部分旧谱面）</div>
+      <div class="number">
+        <div style="display: grid;grid-template-columns: repeat(auto-fill, 107.5px);grid-template-rows: repeat(auto-fill, 154px);place-items: center center;">
+          <div style="margin-right:7.5px;">
+              <div style="height:110px;width:100px;line-height:110px;text-align:center;">
+                  <a href="/Anoband" title="Anoband">
+                      <img alt="base.jpg" src="/anoband/base.jpg" decoding="async" width="100" height="100"/>
+                  </a>
+              </div>
+              <div style="height:44px;text-align:center;text-overflow:ellipsis;overflow:hidden;width:100px;display: block;white-space: nowrap;line-height:22px;text-align:center;">
+                  <a href="/Anoband" title="Anoband">
+                      <span title="Testify">あのバンド</span>
+                  </a>
+                  <br/>Future 10.0
                 </div>
             </div>
+          </div>
+        </div>
   </code>
 </pre>
