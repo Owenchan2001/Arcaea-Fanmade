@@ -1,0 +1,45 @@
+    {
+      "id": "anoband",
+      "title_localized": {
+        "en": "あのバンド"
+      },
+      "artist": "結束バンド",
+      "bpm": "190",
+      "bpm_base": 190,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 41176,
+      "audioPreviewEnd": 64703,
+      "side": 0,
+      "bg": "single_light",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "!Time to Raise the Guitar!",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
