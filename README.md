@@ -10,6 +10,6 @@
     <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
 </p>
 <p float="left">
-    <a href="/anoband">あのバンド</a>
-    <a href="/speculation">Speculation</a>
+    <a href="/anoband">あのバンド   </a>
+    <a href="/speculation">Speculation   </a>
 </p>
