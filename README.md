@@ -5,9 +5,9 @@
 # 自制谱面信息(及其定数)
 
 ##2024年2月份更新谱面
-<figure class="half">
+<p float="left">
     <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
     <a href="/anoband">あのバンド</a>
     <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
     <a href="/speculation">Speculation</a>
-</figure>
+</p>
