@@ -7,9 +7,13 @@
 ##2024年2月份更新谱面
 <p float="left">
     <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
+    <a href="/anoband">あのバンド</a>
     <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
-</p>
-<p float="left">
-    <a href="/anoband">あのバンド   </a>
-    <a href="/speculation">Speculation   </a>
+    <a href="/speculation">Speculation</a>
+    <img src="/demetel/base.jpg" title="demetel" width="135" high="135"/>
+    <a href="/speculation">Demetel(Erixa MYTH Remix)</a>
+    <img src="/zetabtye/base.jpg" title="zetabtye" width="135" high="135"/>
+    <a href="/zetabtye">ZETABYTE</a>
+    <img src="/fremeny/base.jpg" title="fremeny" width="135" high="135"/>
+    <a href="/fremeny">Bestest Fremeny!!</a>
 </p>
