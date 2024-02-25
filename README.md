@@ -3,7 +3,7 @@
 所有谱面均可自由获取，若录制手元烦请在简介或评论中@谱师，若私服预收录请私信谱师告知。
 
 # 仓库谱面信息(及其定数)
-<pre>
+<html>
     <code>
         <div class="ds">8.0</div>
         <div class="number">
@@ -77,4 +77,4 @@
             </div>
         </div>
     </code>
-</pre>
+</html>
