@@ -5,7 +5,7 @@
 
 ## 谱师链接
 
-大噎 + [Bilibili](https://space.bilibili.com/44530825)
+※大噎 [Bilibili](https://space.bilibili.com/44530825)
 
 # 自制谱面更新目录
 
