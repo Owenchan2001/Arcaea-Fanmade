@@ -1,0 +1,38 @@
+    {
+      "id": "demetel",
+      "title_localized": {
+        "en": "Demetel (Erixa \"MYTH\" Remix)"
+      },
+      "artist": "Erixa",
+      "bpm": "150",
+      "bpm_base": 150,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 80030,
+      "audioPreviewEnd": 105630,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Oracle",
+          "jacketDesigner": "",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Δήμητρα",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },

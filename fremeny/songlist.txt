@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "fremeny",
+      "title_localized": {
+        "en": "Bestest Fremeny!"
+      },
+      "artist": "MYUKKE.",
+      "bpm": "140",
+      "bpm_base": 140,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 73774,
+      "audioPreviewEnd": 100988,
+      "side": 0,
+      "bg": "dynamix_light",
+      "version": "9.0",
+      "date": 6,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Random Charter",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
+  ]
+}

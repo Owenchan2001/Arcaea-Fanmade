@@ -1,0 +1,38 @@
+    {
+      "id": "zetabyte",
+      "title_localized": {
+        "en": "ZETABYTE"
+      },
+      "artist": "Ras",
+      "bpm": "155",
+      "bpm_base": 155,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 13047,
+      "audioPreviewEnd": 37821,
+      "side": 0,
+      "bg": "single2_light",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "TECHNO FRESHMEN",
+          "jacketDesigner": "",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "TECHNO JUNIOR",
+          "jacketDesigner": "",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "TECHNO HERO",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
