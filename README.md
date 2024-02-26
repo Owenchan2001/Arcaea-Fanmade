@@ -24,4 +24,6 @@
     <a href="/fremeny">Bestest Fremeny!!</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/paradial/base.jpg" width="135" high="135"/>
     <a href="/paradial">Paradial Resonator</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/cult/base.jpg" width="135" high="135"/>
+    <a href="/paradial">Cult Future</a>
 </p>
