@@ -8,14 +8,6 @@
 
 ※大噎 [Bilibili](https://space.bilibili.com/44530825)
 
-※厚蛋烧，贼几把好吃 [Bilibili](https://space.bilibili.com/586708049)
-
-※Liva [Bilibili](https://space.bilibili.com/19175271)
-
-※双剑の白 aka. 信赖 [Bilibili](https://space.bilibili.com/44777844)
-
-※樱桃可乐 [Bilibili](https://space.bilibili.com/13411371)
-
 # 自制谱面更新目录
 
 [2024年2月份更新谱面](#2024年2月份更新谱面)
