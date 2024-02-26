@@ -12,15 +12,15 @@
 
 ※Liva [Bilibili](https://space.bilibili.com/19175271)
 
-※双剑の白aka.信赖 [Bilibili](https://space.bilibili.com/44777844)
+※双剑の白 aka. 信赖 [Bilibili](https://space.bilibili.com/44777844)
 
 ※樱桃可乐 [Bilibili](https://space.bilibili.com/13411371)
 
 # 自制谱面更新目录
 
-[2024年2月份更新谱面](## 2024年2月份更新谱面)
+[2024年2月份更新谱面](#2024年2月份更新谱面)
 
-[2024年3月份更新谱面](## 2024年3月份更新谱面)
+[2024年3月份更新谱面](#2024年3月份更新谱面)
 
 ## 2024年2月份更新谱面
 <p float="left">
