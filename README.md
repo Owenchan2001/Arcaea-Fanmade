@@ -12,16 +12,16 @@
 
 ## 2024年2月份更新谱面
 <p float="left">
-    <img src="/anoband/base.jpg" title="anoband" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
     <a href="/anoband">あのバンド</a>
-    <img src="/speculation/base.jpg" title="speculation" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/speculation/base.jpg" width="135" high="135"/>
     <a href="/speculation">Speculation</a>
-    <img src="/demetel/base.jpg" title="demetel" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/demetel/base.jpg" width="135" high="135"/>
     <a href="/speculation">Demetel(Erixa MYTH Remix)</a>
-    <img src="/zetabyte/base.jpg" title="zetabyte" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/zetabyte/base.jpg" width="135" high="135"/>
     <a href="/zetabyte">ZETABYTE</a>
-    <img src="/fremeny/base.jpg" title="fremeny" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/fremeny/base.jpg"  width="135" high="135"/>
     <a href="/fremeny">Bestest Fremeny!!</a>
-    <img src="/paradial/base.jpg" title="paradial" width="135" high="135"/>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/paradial/base.jpg" width="135" high="135"/>
     <a href="/paradial">Paradial Resonator</a>
 </p>
