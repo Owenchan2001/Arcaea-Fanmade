@@ -1,0 +1,38 @@
+{
+      "id": "variant",
+      "title_localized": {
+        "en": "Variant Cross"
+      },
+      "artist": "M-UE",
+      "bpm": "210",
+      "bpm_base": 210,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 65205,
+      "audioPreviewEnd": 83461,
+      "side": 1,
+      "bg": "ongeki_conflict",
+      "date": 1564558000,
+      "version": "3.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus":true
+        }
+      ]
+    },
