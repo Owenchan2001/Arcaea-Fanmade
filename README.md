@@ -33,7 +33,9 @@
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/paradial/base.jpg" width="135" high="135"/>
     <a href="/paradial">Paradial Resonator</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/cult/base.jpg" width="135" high="135"/>
-    <a href="/paradial">Cult Future</a>
+    <a href="/cult">Cult Future</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/variant/base.jpg" width="135" high="135"/>
+    <a href="/variant">Variant Cross</a>
 </p>
 
 ## 2024年3月份更新谱面
