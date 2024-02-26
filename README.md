@@ -4,9 +4,9 @@
 
 所有谱面均可自由获取，若录制手元烦请在简介或评论中@谱师，若私服预收录请私信谱师告知。
 
-推荐谱面文件下载方式：在[DownGit](https://minhaskamal.github.io/DownGit/#/home) 的搜索栏中输入https://github.com/Owenchan2001/Arcaea-Fanmade/tree/main/谱面文件夹名称，按下回车即可下载。
+推荐谱面文件下载方式：在[DownGit](https://minhaskamal.github.io/DownGit/#/home) 的搜索栏中输入https://github.com/Owenchan2001/Arcaea-Fanmade/tree/main/谱面文件夹名称 ，按下回车即可下载。
 
-    示例：在[DownGit](https://minhaskamal.github.io/DownGit/#/home) 的搜索栏中输入https://github.com/Owenchan2001/Arcaea-Fanmade/tree/main/anoband，即可下载《那个乐队》的谱面文件。
+    示例：在DownGit的搜索栏中输入https://github.com/Owenchan2001/Arcaea-Fanmade/tree/main/anoband，即可下载《那个乐队》的谱面文件。
 
 ## 谱师链接
 
