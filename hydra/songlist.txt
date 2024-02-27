@@ -1,0 +1,38 @@
+    {
+      "id": "hydra",
+      "title_localized": {
+        "en": "Hydra"
+      },
+      "artist": "Akira Complex",
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 96000,
+      "audioPreviewEnd": 119625,
+      "side": 1,
+      "bg": "ongeki_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎0w0",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
