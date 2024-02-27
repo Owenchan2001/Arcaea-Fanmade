@@ -1,0 +1,38 @@
+    {
+      "id": "teknology",
+      "title_localized": {
+        "en": "Future Teknology"
+      },
+      "artist": "Neun_jack",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 75425,
+      "audioPreviewEnd": 105425,
+      "side": 1,
+      "bg": "single_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Respect RvPloysic...Again?",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
