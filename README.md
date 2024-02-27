@@ -40,6 +40,8 @@
     <a href="/teknology">Future Teknology</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/innocence/base.jpg" width="135" high="135"/>
     <a href="/innocence">Innocence</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/hydra/base.jpg" width="135" high="135"/>
+    <a href="/hydra">Hydra</a>
 </p>
 
 ## 2024年3月份更新谱面
