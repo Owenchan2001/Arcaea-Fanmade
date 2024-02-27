@@ -1,0 +1,38 @@
+    {
+      "id": "innocence",
+      "title_localized": {
+        "en": "Innocence"
+      },
+      "artist": "Juggernaut.",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 88810,
+      "audioPreviewEnd": 108010,
+      "side": 1,
+      "bg": "yugamu",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Sadistic Craziness",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
