@@ -37,7 +37,9 @@
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/variant/base.jpg" width="135" high="135"/>
     <a href="/variant">Variant Cross</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/teknology/base.jpg" width="135" high="135"/>
-    <a href="/variant">Future Teknology</a>
+    <a href="/teknology">Future Teknology</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/innocence/base.jpg" width="135" high="135"/>
+    <a href="/innocence">Innocence</a>
 </p>
 
 ## 2024年3月份更新谱面
