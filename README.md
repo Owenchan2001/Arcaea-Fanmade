@@ -12,7 +12,9 @@
 
 ※大噎 [Bilibili](https://space.bilibili.com/44530825)
 
-# 自制谱面更新目录
+<a href="https://info.flagcounter.com/kmB9"><img src="https://s01.flagcounter.com/count/kmB9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_2/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+# 自制谱面更新目录（懒得录视频的会提前上传）
 
 [2024年2月份更新谱面](#2024年2月份更新谱面)
 
