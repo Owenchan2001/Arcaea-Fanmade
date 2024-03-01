@@ -47,3 +47,8 @@
 </p>
 
 ## 2024年3月份更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/revivemelody/base.jpg" width="135" high="135"/>
+    <a href="/revivemelody">And Revive the Melody</a>
+</p>
+
