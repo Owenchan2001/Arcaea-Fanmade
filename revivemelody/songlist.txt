@@ -1,0 +1,38 @@
+    {
+      "id": "revivemelody",
+      "title_localized": {
+        "en": "And Revive the Melody"
+      },
+      "artist": "chroma",
+      "bpm": "160-220",
+      "bpm_base": 220,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 62196,
+      "audioPreviewEnd": 81850,
+      "side": 1,
+      "bg": "ongeki_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Then Retrieve the Hope",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
