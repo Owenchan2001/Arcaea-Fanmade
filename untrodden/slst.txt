@@ -1,0 +1,38 @@
+{
+      "id": "untrodden",
+      "title_localized": {
+        "en": "Untrodden Morn"
+      },
+      "artist": "Silentroom",
+      "bpm": "138",
+      "bpm_base": 138,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 96304,
+      "audioPreviewEnd": 124890,
+      "side": 1,
+      "bg": "mirai_conflict",
+      "date": 1564558000,
+      "version": "3.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "古臘希掌管天鍵的神",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus":false
+        }
+      ]
+    }
