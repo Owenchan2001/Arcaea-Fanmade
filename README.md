@@ -52,5 +52,7 @@
     <a href="/revivemelody">And Revive the Melody</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/untrodden/base.jpg" width="135" high="135"/>
     <a href="/untrodden">Untrodden Morn</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/ombre/base.jpg" width="135" high="135"/>
+    <a href="/ombre">Le Porteur d'Ombre (谱师:CherryPepsi)</a>
 </p>
 
