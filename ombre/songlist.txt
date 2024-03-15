@@ -1,0 +1,40 @@
+ {
+      "id": "leporteur",
+      "title_localized": {
+        "en": "Le Porteur d'Ombre"
+      },
+      "artist": "黒皇帝 feat. AKA",
+      "bpm": "220",
+      "bpm_base": 220,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 106500,
+      "audioPreviewEnd": 122180,
+      "side": 1,
+      "bg": "arcanaeden",
+      "version": "",
+      "date": 1690477547,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "- La nuit éternelle -",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": true
+        }
+      ]
+    }
