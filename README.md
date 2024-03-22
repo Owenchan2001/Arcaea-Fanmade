@@ -54,5 +54,7 @@
     <a href="/untrodden">Untrodden Morn</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/ombre/base.jpg" width="135" high="135"/>
     <a href="/ombre">Le Porteur d'Ombre (谱师:CherryPepsi)</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/panicparadise/base.jpg" width="135" high="135"/>
+    <a href="/panicparadise">Panic Paradise</a>
 </p>
 
