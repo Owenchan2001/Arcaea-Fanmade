@@ -1,0 +1,38 @@
+    {
+      "id": "panicparadise",
+      "title_localized": {
+        "en": "Panic Paradise"
+      },
+      "artist": "DJ SHINO.Y",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 79764,
+      "audioPreviewEnd": 99764,
+      "side": 1,
+      "bg": "mirai_conflict",
+      "version": "",
+      "date": 20240317,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "不滅之握",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
