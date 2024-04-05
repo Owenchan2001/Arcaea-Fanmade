@@ -20,6 +20,8 @@
 
 [2024年3月份更新谱面](#2024年3月份更新谱面)
 
+[2024年4月份更新谱面](#2024年4月份更新谱面)
+
 ## 2024年2月份更新谱面
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
@@ -56,5 +58,11 @@
     <a href="/ombre">Le Porteur d'Ombre (谱师:CherryPepsi)</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/panicparadise/base.jpg" width="135" high="135"/>
     <a href="/panicparadise">Panic Paradise</a>
+</p>
+
+## 2024年4月份更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/gangmen/base.jpg" width="135" high="135"/>
+    <a href="/gangmen">你的钢门比较摇滚</a>
 </p>
 
