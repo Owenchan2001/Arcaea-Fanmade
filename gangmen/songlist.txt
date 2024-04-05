@@ -1,0 +1,38 @@
+    {
+      "id": "gangmen",
+      "title_localized": {
+        "en": "你的肛門比較搖滾"
+      },
+      "artist": "Suno AI",
+      "bpm": "151",
+      "bpm_base": 151,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 844,
+      "audioPreviewEnd": 60844,
+      "side": 0,
+      "bg": "single_light",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "肛門に駆ける",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    },
