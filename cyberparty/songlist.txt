@@ -1,0 +1,43 @@
+{
+  "songs": [
+    {
+      "id": "cyberparty",
+      "title_localized": {
+        "en": "Cyber Party"
+      },
+      "artist": "Shirobon / RADIx",
+      "bpm": "118",
+      "bpm_base": 118,
+      "set": "single",
+      "purchase": "",
+      "audioPreview": 16271,
+      "audioPreviewEnd": 48813,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "date": 134763520,
+      "version": "1.1",
+      "byd_local_unlock": true,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "閃\n電\n旋\n風\n劈",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
+  ]
+}
