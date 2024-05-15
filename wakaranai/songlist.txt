@@ -1,0 +1,38 @@
+    {
+      "id": "wakaranai",
+      "title_localized": {
+        "en": "分からない"
+      },
+      "artist": "黒魔 feat. ろん",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 56400,
+      "audioPreviewEnd": 76650,
+      "side": 1,
+      "bg": "maimai_boss",
+      "date": 1675685591,
+      "version": "6.66",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "如月 ゆかり vs. ぴちネコ",
+          "jacketDesigner": "maimai",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
