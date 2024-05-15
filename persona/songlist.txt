@@ -1,0 +1,38 @@
+    {
+      "id": "persona",
+      "title_localized": {
+        "en": "PERSONA feat. PANXI"
+      },
+      "artist": "rejection",
+      "bpm": "175",
+      "bpm_base": 175,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 6857,
+      "audioPreviewEnd": 28285,
+      "side": 1,
+      "bg": "hime_conflict",
+      "version": "",
+      "date": 1,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "雨宮蓮 feat. 第五人格",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
