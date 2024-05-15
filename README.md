@@ -22,6 +22,8 @@
 
 [2024年4月份更新谱面](#2024年4月份更新谱面)
 
+[2024年5月份更新谱面](#2024年5月份更新谱面)
+
 ## 2024年2月份更新谱面
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
@@ -66,5 +68,15 @@
     <a href="/gangmen">你的钢门比较摇滚</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/cyberparty/base.jpg" width="135" high="135"/>
     <a href="/cyberparty">Cyber Party</a>
+</p>
+
+## 2024年5月份更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/persona/base.jpg" width="135" high="135"/>
+    <a href="/persona">PERSONA(合作谱师:Chro_)</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/wakaranai/base.jpg" width="135" high="135"/>
+    <a href="/wakaranai">分からない(合作谱师:Rez128)</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/ember/base.jpg" width="135" high="135"/>
+    <a href="/ember">Ember Lights</a>
 </p>
 
