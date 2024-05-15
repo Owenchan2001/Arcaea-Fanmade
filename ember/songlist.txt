@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "ember",
+      "title_localized": {
+        "en": "Ember Lights"
+      },
+      "artist": "Nhato",
+      "bpm": "148",
+      "bpm_base": 148,
+      "set": "single",
+      "purchase": "",
+      "audioPreview": 77128,
+      "audioPreviewEnd": 114539,
+      "side": 1,
+      "bg": "single2_conflict",
+      "version": "1.7",
+      "date": 1642165459,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gua.Gua.Le",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
+  ]
+}
