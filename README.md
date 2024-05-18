@@ -78,5 +78,7 @@
     <a href="/wakaranai">分からない(合作谱师:Rez128)</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/ember/base.jpg" width="135" high="135"/>
     <a href="/ember">Ember Lights</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/crowdedourcity/base.jpg" width="135" high="135"/>
+    <a href="/crowdedourcity">雑踏、僕らの街</a>
 </p>
 
