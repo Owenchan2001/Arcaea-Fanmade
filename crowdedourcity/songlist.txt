@@ -1,0 +1,38 @@
+    {
+      "id": "crowdedourcity",
+      "title_localized": {
+        "en": "雑踏、僕らの街"
+      },
+      "artist": "Girls Band Cry",
+      "bpm": "171",
+      "bpm_base": 171,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 47480,
+      "audioPreviewEnd": 83079,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "version": "",
+      "date": 123456789,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "酬酬賓賓, 我們的譜面",
+          "jacketDesigner": "Girls Band Cry",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
