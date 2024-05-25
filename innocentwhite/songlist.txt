@@ -1,0 +1,38 @@
+    {
+      "id": "innocentwhite",
+      "title_localized": {
+        "en": "Innocent white"
+      },
+      "artist": "影虎。",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 75665,
+      "audioPreviewEnd": 97332,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DAYE~Unbounded~",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
