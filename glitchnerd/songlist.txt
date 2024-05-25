@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "glitchnerd",
+      "title_localized": {
+        "en": "Glitch Nerds"
+      },
+      "artist": "かめりあ",
+      "bpm": "140",
+      "bpm_base": 140,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 16725,
+      "audioPreviewEnd": 19725,
+      "side": 1,
+      "bg": "single2_conflict",
+      "version": "9.0",
+      "date": 6,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Actually...",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
+  ]
+}
