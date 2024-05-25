@@ -80,5 +80,9 @@
     <a href="/ember">Ember Lights</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/crowdedourcity/base.jpg" width="135" high="135"/>
     <a href="/crowdedourcity">雑踏、僕らの街</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/innocentwhite/base.jpg" width="135" high="135"/>
+    <a href="/innocentwhit">Innocent white</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/glitchnerd/base.jpg" width="135" high="135"/>
+    <a href="/glitchnerd">Glitch Nerds</a>
 </p>
 
