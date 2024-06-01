@@ -24,6 +24,8 @@
 
 [2024年5月份更新谱面](#2024年5月份更新谱面)
 
+[2024年6月份更新谱面](#2024年6月份更新谱面)
+
 ## 2024年2月份更新谱面
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
@@ -84,5 +86,10 @@
     <a href="/innocentwhit">Innocent white</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/glitchnerd/base.jpg" width="135" high="135"/>
     <a href="/glitchnerd">Glitch Nerds</a>
+
+## 2024年6月份更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/echoforest/base.jpg" width="135" high="135"/>
+    <a href="/echoforest">Echo of the Forest</a>
 </p>
 
