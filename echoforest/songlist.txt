@@ -1,0 +1,38 @@
+    {
+      "id": "echoforest",
+      "title_localized": {
+        "en": "Echoes of the Forest"
+      },
+      "artist": "DJ Noriken",
+      "bpm": "168",
+      "bpm_base": 168,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 104385,
+      "audioPreviewEnd": 128482,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DJ Daye",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
