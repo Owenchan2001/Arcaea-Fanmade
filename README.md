@@ -91,5 +91,7 @@
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/echoforest/base.jpg" width="135" high="135"/>
     <a href="/echoforest">Echo of the Forest</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/DEVOTION/base.jpg" width="135" high="135"/>
+    <a href="/DEVOTION">DEVOTION</a>
 </p>
 
