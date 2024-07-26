@@ -1,0 +1,38 @@
+    {
+      "id": "chinese",
+      "title_localized": {
+        "en": "中国话"
+      },
+      "artist": "S.H.E.",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 47700,
+      "audioPreviewEnd": 75900,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 666,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "D.A.Y.E.",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
