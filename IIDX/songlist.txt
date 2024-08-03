@@ -1,0 +1,38 @@
+    {
+      "id": "IIDX",
+      "title_localized": {
+        "en": "ONE AND ONLY"
+      },
+      "artist": "Yuta Imai",
+      "bpm": "174",
+      "bpm_base": 174,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 11378,
+      "audioPreviewEnd": 25689,
+      "side": 1,
+      "bg": "yugamu",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "嘟嘟哒嘟哒哒",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
