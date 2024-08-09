@@ -103,5 +103,7 @@
     <a href="/chinese">中国话</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/IIDX/base.jpg" width="135" high="135"/>
     <a href="/IIDX">ONE AND ONLY</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/yestalgia/base.jpg" width="135" high="135"/>
+    <a href="/yestalgia">Yestalgia for Futurity</a>
 </p>
 
