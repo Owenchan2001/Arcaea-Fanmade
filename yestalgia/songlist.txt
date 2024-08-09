@@ -1,0 +1,38 @@
+    {
+      "id": "yestalgia",
+      "title_localized": {
+        "en": "Yestalgia for Futurity"
+      },
+      "artist": "MYUKKE.",
+      "bpm": "112.5",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 1066,
+      "audioPreviewEnd": 21066,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Cognition Sphere",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
