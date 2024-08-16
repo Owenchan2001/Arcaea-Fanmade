@@ -105,5 +105,7 @@
     <a href="/IIDX">ONE AND ONLY</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/yestalgia/base.jpg" width="135" high="135"/>
     <a href="/yestalgia">Yestalgia for Futurity</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/goround/base.jpg" width="135" high="135"/>
+    <a href="/goround">Go-Round(TV version)</a>
 </p>
 
