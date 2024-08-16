@@ -1,0 +1,38 @@
+    {
+      "id": "goround",
+      "title_localized": {
+        "en": "Go-Round(TV version)"
+      },
+      "artist": "伊藤奈央 in FIX",
+      "bpm": "130",
+      "bpm_base": 130,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 52854,
+      "audioPreviewEnd": 88162,
+      "side": 0,
+      "bg": "single_light",
+      "version": "20240217",
+      "date": 1,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "轉呀轉,原來我還在原地",
+          "jacketDesigner": "",
+          "rating": 8,
+          "ratingPlus": true
+        }
+      ]
+    },
