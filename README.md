@@ -108,6 +108,6 @@
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/goround/base.jpg" width="135" high="135"/>
     <a href="/goround">Go-Round(TV version)</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/synthesis/base.jpg" width="135" high="135"/>
-    <a href="/synthesis">Synthesis.</a>
+    <a href="/synthesis">Synthesis.(合作谱师:CherryPepsi)</a>
 </p>
 
