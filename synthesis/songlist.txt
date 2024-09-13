@@ -1,0 +1,38 @@
+    {
+      "id": "synthesis",
+      "title_localized": {
+        "en": "Synthesis."
+      },
+      "artist": "tn-shi",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 77333,
+      "audioPreviewEnd": 98666,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Pina Colada XXL",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": true
+        }
+      ]
+    },
