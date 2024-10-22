@@ -28,6 +28,8 @@
 
 [2024年7-8-9月份更新谱面](#2024年7-8-9月份更新谱面)
 
+[2024年10-11-12月份更新谱面](#2024年10-11-12月份更新谱面)
+
 ## 2024年2月份更新谱面
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
@@ -111,3 +113,8 @@
     <a href="/synthesis">Synthesis.(合作谱师:CherryPepsi)</a>
 </p>
 
+## 2024年10-11-12月份更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/cornflake/base.jpg" width="135" high="135"/>
+    <a href="/cornflake">Computer Cornflakes</a>
+</p>
