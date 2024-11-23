@@ -117,4 +117,6 @@
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/cornflake/base.jpg" width="135" high="135"/>
     <a href="/cornflake">Computer Cornflakes</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/REGENADE/base.jpg" width="135" high="135"/>
+    <a href="/REGENADE">Regenade (etr 11)</a>
 </p>
