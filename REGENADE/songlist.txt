@@ -1,0 +1,38 @@
+    {
+      "id": "REGENADE",
+      "title_localized": {
+        "en": "Regenade"
+      },
+      "artist": "sky_delta",
+      "bpm": "186",
+      "bpm_base": 186,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 106450,
+      "audioPreviewEnd": 127741,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎-Lv99",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
