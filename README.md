@@ -30,6 +30,8 @@
 
 [2024年10-11-12月份更新谱面](#2024年10-11-12月份更新谱面)
 
+[2025年1-2-3月份更新谱面](#2024年1-2-3月份更新谱面)
+
 ## 2024年2月份更新谱面
 <p float="left">
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/anoband/base.jpg" width="135" high="135"/>
@@ -120,3 +122,6 @@
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/REGENADE/base.jpg" width="135" high="135"/>
     <a href="/REGENADE">Regenade (etr 11)</a>
 </p>
+
+## 2025年1-2-3月份更新谱面
+周末上传
