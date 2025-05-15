@@ -1,0 +1,38 @@
+    {
+      "id": "truthseeker",
+      "title_localized": {
+        "en": "A truth seeker -Communication with Utopia will be lost-"
+      },
+      "artist": "kuro",
+      "bpm": "206",
+      "bpm_base": 206,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 20679,
+      "audioPreviewEnd": 39611,
+      "side": 1,
+      "bg": "single2_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎 vs. 遥想 -Hope will be found after Torture-",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
