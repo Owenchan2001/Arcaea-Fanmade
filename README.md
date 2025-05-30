@@ -133,4 +133,10 @@
     <a href="/chantsayyeah">Chant Say Yeah!</a>
     <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/zitronectar/base.jpg" width="135" high="135"/>
     <a href="/zitronectar">Zitronectar</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/HYP3RTIBE/base.jpg" width="135" high="135"/>
+    <a href="/HYP3RTIBE">HYP3RTIBE</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/melodyoflove/base.jpg" width="135" high="135"/>
+    <a href="/melodyoflove">The Melody of Love</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/zitronectar/base.jpg" width="135" high="135"/>
+    <a href="/zitronectar">Zitronectar</a>
 </p>
