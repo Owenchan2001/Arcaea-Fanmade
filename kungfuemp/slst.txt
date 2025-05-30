@@ -1,0 +1,38 @@
+{
+      "id": "kungfuemp",
+      "title_localized": {
+        "en": "Kung-fu Empire"
+      },
+      "artist": "猫叉Master",
+      "bpm": "177",
+      "bpm_base": 177,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 90029,
+      "audioPreviewEnd": 111893,
+      "side": 0,
+      "bg": "rei",
+      "date": 1564558000,
+      "version": "3.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "大噎",
+          "jacketDesigner": "",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "麦卡斯 & 大噎",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus":false
+        }
+      ]
+    },

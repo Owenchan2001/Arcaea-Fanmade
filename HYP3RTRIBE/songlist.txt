@@ -1,0 +1,38 @@
+    {
+      "id": "HYP3RTRIBE",
+      "title_localized": {
+        "en": "HYP3RTRIBE"
+      },
+      "artist": "sky_delta vs KO3 vs Tanchiky",
+      "bpm": "190",
+      "bpm_base": 190,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 92999,
+      "audioPreviewEnd": 113368,
+      "side": 1,
+      "bg": "maimai_conflict",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "大噎",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
