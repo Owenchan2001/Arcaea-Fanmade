@@ -1,0 +1,38 @@
+    {
+      "id": "zitronectar",
+      "title_localized": {
+        "en": "Zitronectar"
+      },
+      "artist": "Reku  Mochizuki",
+      "bpm": "222",
+      "bpm_base": 222,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 21621,
+      "audioPreviewEnd": 47432,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DAYE",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }

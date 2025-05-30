@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "chantsayyeah",
+      "title_localized": {
+        "en": "Chant Say Yeah!"
+      },
+      "artist": "MYUKKE.",
+      "bpm": "150",
+      "bpm_base": 150,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 80000,
+      "audioPreviewEnd": 92800,
+      "side": 0,
+      "bg": "omatsuri_light",
+      "version": "2025",
+      "date": 2025,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DAYE & LivalinkZ",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

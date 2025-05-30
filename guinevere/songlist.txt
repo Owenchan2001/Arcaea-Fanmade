@@ -1,0 +1,38 @@
+    {
+      "id": "guinevere",
+      "title_localized": {
+        "en": "Guinevere ～白き妖精～"
+      },
+      "artist": "ぺのれり",
+      "bpm": "150-225",
+      "bpm_base": 225,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 74782,
+      "audioPreviewEnd": 100468,
+      "side": 0,
+      "bg": "rei",
+      "version": "",
+      "date": 1615090270,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DAYE",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
