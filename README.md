@@ -123,5 +123,14 @@
     <a href="/REGENADE">Regenade (etr 11)</a>
 </p>
 
-## 2025年1-2-3月份更新谱面
-周末上传
+## 2025年上半年更新谱面
+<p float="left">
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/truthseeker/base.jpg" width="135" high="135"/>
+    <a href="/truthseeker">A truth seeker -Communication with Utopia will be lost-</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/guinevere/base.jpg" width="135" high="135"/>
+    <a href="/guinevere">Guinevere ～白き妖精～</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/chantsayyeah/base.jpg" width="135" high="135"/>
+    <a href="/chantsayyeah">Chant Say Yeah!</a>
+    <img src="https://github.com/Owenchan2001/Arcaea-Fanmade/blob/main/zitronectar/base.jpg" width="135" high="135"/>
+    <a href="/zitronectar">Zitronectar</a>
+</p>
